@@ -1,11 +1,9 @@
 
-
+import NavBar from "./components/NavBar";
 function App() {
   return (
-    <div className="App">
-    <h1 className="text-4xl font-bold">
-      hello
-    </h1>
+    <div>
+      <NavBar/>
     </div>
   );
 }
