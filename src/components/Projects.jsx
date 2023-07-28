@@ -1,7 +1,7 @@
 import React from "react";
 import Ecommerce from "../assets/Ecommerce.png";
-import TodoList from "../assets/Todo.jpg";
-import Netflix from "../assets/NetflixClone.png";
+import TodoList from "../assets/To-do.png";
+import Netflix from "../assets/Netflixclone2.png";
 const Projects = () => {
 
 const projects=[
